@@ -1,5 +1,5 @@
 #include <stdio.h>
-// 주민번호 입력받아 형태 바꿔 출력하기
+// 1020 - 주민번호 입력받아 형태 바꿔 출력하기
 int main() {
 	int f, l;
 	scanf("%d-%d", &f, &l);

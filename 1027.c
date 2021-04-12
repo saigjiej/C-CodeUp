@@ -1,5 +1,5 @@
 #include <stdio.h>
-// 년월일 입력받아 형식 바꿔 출력하기
+// 1027 - 년월일 입력받아 형식 바꿔 출력하기
 int main() {
 	int y, m, d;
 	scanf("%d.%d.%d", &y, &m, &d);

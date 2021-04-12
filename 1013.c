@@ -1,5 +1,5 @@
 #include <stdio.h>
-// 정수 2개 입력받아 그대로 출력하기
+// 1013 - 정수 2개 입력받아 그대로 출력하기
 int main() {
 	int a, b;
 	scanf("%d%d", &a, &b);

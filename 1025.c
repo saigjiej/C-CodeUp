@@ -1,5 +1,5 @@
 #include <stdio.h>
-// 정수 1개 입력받아 나누어 출력하기
+// 1025 - 정수 1개 입력받아 나누어 출력하기
 int main() {
 	int a,b,c,d,e;
 	scanf("%1d%1d%1d%1d%1d", &a, &b, &c, &d, &e);
