@@ -4,4 +4,6 @@ int main() {
 	char d[51] = "";
 	scanf("%s", &d);
 	printf("%s", d);
+
+	return 0;
 }
