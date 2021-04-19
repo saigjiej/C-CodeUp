@@ -2,13 +2,10 @@
 // 1071 - 0 입력될 때까지 무한 출력하기 1
 int main() {
 	int num1;
-replay:
+reload:
 	scanf("%d", &num1);
-
-	if (num1 != 0) {
-		pritnf("%d\n", num1);
-		goto replay;
-	}
+	printf("%d\n", num1);
+	if (num1 != 0) goto reload;
 
 	return 0;
 }
