@@ -5,14 +5,12 @@ int main() {
 	scanf("%d", &num);
 
 	for (int i = 1; i <= num; i++) {
-		if (i % 3 == 0) {
+		if (i % 3 == 0) 
 			printf("X ");
-		}
-		else {
+		else
 			printf("%d ", i);
-		}
+		
 	}
 
 	return 0;
-
 }

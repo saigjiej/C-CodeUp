@@ -6,5 +6,6 @@ int main() {
 	scanf("%lld %lld %lld %lld", &h, &b, &s, &c);
 	result = h * b * s * c;
 	printf("%.1fMB", result/(8 * 1024 * 1024));
+
 	return 0;
 }
